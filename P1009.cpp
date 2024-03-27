@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-
 using namespace std;
 int n,a[90],b[90],c[90],f[90],d=0,len_a,len_b=1,len_c=1,len_ans,m=1;
 string s;
