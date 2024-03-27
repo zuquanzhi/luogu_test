@@ -1,20 +1,17 @@
 {
   "configurations": [
     {
-      "name": "windows-clang-x64",
-      "intelliSenseMode": "windows-clang-x64",
-      "compilerPath": "D:/mingw64/bin/g++.exe",
+      "name": "windows-gcc-x64",
       "includePath": [
-        "${workspaceFolder}/**",
-        "${{workspaceFolder}}/**"
+        "${workspaceFolder}/**"
       ],
-      "defines": [],
+      "compilerPath": "D:/mingw64/bin/gcc.exe",
       "cStandard": "${default}",
-      "cppStandard": "c++17",
-      "windows-clang-x64": {
-        "compilerPath": "D:/mingw64/bin/g++.exe",
-        "intelliSenseMode": "windows-clang-x64"
-      }
+      "cppStandard": "${default}",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerArgs": [
+        ""
+      ]
     }
   ],
   "version": 4

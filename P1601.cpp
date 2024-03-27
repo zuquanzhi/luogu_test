@@ -4,7 +4,6 @@ int a[1000001],b[1000001],c[1000001],j;
 bool x=false;
 char s[1000001],ss[1000001];
 int main() {
-
 	memset(a,0,sizeof(a));
 	memset(b,0,sizeof(b));
 	memset(c,0,sizeof(c));//初始化
