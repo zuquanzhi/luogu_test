@@ -6,7 +6,7 @@
       "compilerPath": "D:/mingw64/bin/g++.exe",
       "includePath": [
         "${workspaceFolder}/**",
-        "${workspaceFolder}/**"
+        "${{workspaceFolder}}/**"
       ],
       "defines": [],
       "cStandard": "${default}",
